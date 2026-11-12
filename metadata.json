@@ -1,0 +1,6 @@
+{
+  "name": "VoyageStudio - Premium Travel Agency Demo Platform",
+  "description": "Instantly generate and experience a bespoke, responsive luxury travel agency website for your business with curated destinations, holiday packages, and client enquiry engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
